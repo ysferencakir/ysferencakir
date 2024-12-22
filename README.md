@@ -1,16 +1,52 @@
-## Hi there 👋
+# 🚀 Yusuf Eren Çakır
 
-<!--
-**ysferencakir/ysferencakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student | Developer**
 
-Here are some ideas to get you started:
+I'm a 3rd-year Computer Engineering student at Eastern Mediterranean University.&#x20;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub stats]\(https\://github-readme-stats.vercel.app/api?username=ysferencakir&show\_icons=true&theme=radical)
+
+![Top Languages]\([https://github-readme-stats.vercel.app/api/top-langs/?username=ysferencakir&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=ysferencakir\&layout=compact\&theme=radical))
+
+
+
+---
+
+### 🛠️ Languages and Tools
+
+![C]\([https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white](https://img.shields.io/badge/-C-A8B9CC?logo=c\&logoColor=white))
+
+![Java]\([https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white](https://img.shields.io/badge/-Java-007396?logo=java\&logoColor=white))
+
+![Python]\([https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white))
+
+---
+
+### 📫 How to Reach Me
+
+- **Email**: [ysferencakir@gmail.com](mailto\:ysferencakir@gmail.com)
+- **LinkedIn**: [linkedin.com/in/ysferencakir](https://linkedin.com/in/ysferencakir)
+- **LinkTree:** [https://linktr.ee/ysferencakir](https://linktr.ee/ysferencakir)
+
+---
+
+### ⭐ GitHub Profile Trophies
+
+![Trophies]\([https://github-profile-trophy.vercel.app/?username=ysferencakir&theme=radical](https://github-profile-trophy.vercel.app/?username=ysferencakir\&theme=radical))
+
+---
+
+### 📈 GitHub Streak
+
+![GitHub Streak]\([https://github-readme-streak-stats.herokuapp.com/?user=ysferencakir&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=ysferencakir\&theme=radical))
+
+---
+
+⭐️ From [Yusuf Eren Çakır](https://github.com/ysferencakir)
+
+
+
