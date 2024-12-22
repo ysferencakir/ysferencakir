@@ -8,9 +8,9 @@ I'm a 3rd-year Computer Engineering student at Eastern Mediterranean University.
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats]\(https\://github-readme-stats.vercel.app/api?username=ysferencakir&show\_icons=true&theme=radical)
+![Your GitHub stats](https\://github-readme-stats.vercel.app/api?username=ysferencakir&show\_icons=true&theme=radical)
 
-![Top Languages]\([https://github-readme-stats.vercel.app/api/top-langs/?username=ysferencakir&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=ysferencakir\&layout=compact\&theme=radical))
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=ysferencakir&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=ysferencakir\&layout=compact\&theme=radical))
 
 
 
@@ -18,11 +18,11 @@ I'm a 3rd-year Computer Engineering student at Eastern Mediterranean University.
 
 ### 🛠️ Languages and Tools
 
-![C]\([https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white](https://img.shields.io/badge/-C-A8B9CC?logo=c\&logoColor=white))
+![C]([https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white](https://img.shields.io/badge/-C-A8B9CC?logo=c\&logoColor=white))
 
-![Java]\([https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white](https://img.shields.io/badge/-Java-007396?logo=java\&logoColor=white))
+![Java]([https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white](https://img.shields.io/badge/-Java-007396?logo=java\&logoColor=white))
 
-![Python]\([https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white))
+![Python]([https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white))
 
 ---
 
@@ -36,13 +36,13 @@ I'm a 3rd-year Computer Engineering student at Eastern Mediterranean University.
 
 ### ⭐ GitHub Profile Trophies
 
-![Trophies]\([https://github-profile-trophy.vercel.app/?username=ysferencakir&theme=radical](https://github-profile-trophy.vercel.app/?username=ysferencakir\&theme=radical))
+![Trophies]([https://github-profile-trophy.vercel.app/?username=ysferencakir&theme=radical](https://github-profile-trophy.vercel.app/?username=ysferencakir\&theme=radical))
 
 ---
 
 ### 📈 GitHub Streak
 
-![GitHub Streak]\([https://github-readme-streak-stats.herokuapp.com/?user=ysferencakir&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=ysferencakir\&theme=radical))
+![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=ysferencakir&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=ysferencakir\&theme=radical))
 
 ---
 
