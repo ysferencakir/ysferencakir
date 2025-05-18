@@ -1,49 +1,53 @@
-# 🚀 Yusuf Eren Çakır
+<h1 align="center">Hi 👋, I'm Yusuf Eren Çakır</h1>
+<h3 align="center">💻 3rd Year Computer Engineering Student @ Eastern Mediterranean University</h3>
 
-**Computer Engineering Student | Developer**
-
-I'm a 3rd-year Computer Engineering student at Eastern Mediterranean University.&#x20;
-
----
-
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ysferencakir&layout=compact&theme=radical)
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Computer+Engineer+in+progress...;Machine+Learning+Enthusiast;Web+Developer+%7C+IoT+Maker;Always+Learning+New+Techs" />
+</p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 📊 GitHub Stats
 
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ysferencakir&show_icons=true&theme=tokyonight" alt="ysferencakir" />
+</p>
 
----
-
-### 📫 How to Reach Me
-
-- **Email**: [ysferencakir@gmail.com](mailto\:ysferencakir@gmail.com)
-- **LinkedIn**: [linkedin.com/in/ysferencakir](https://linkedin.com/in/ysferencakir)
-- **LinkTree:** [https://linktr.ee/ysferencakir](https://linktr.ee/ysferencakir)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysferencakir&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
-### ⭐ GitHub Profile Trophies
+## 🧰 Languages and Tools
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ysferencakir&theme=radical)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</p>
 
 ---
 
-### 📈 GitHub Streak
+## 📬 How to Reach Me
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ysferencakir&theme=radical)
+- 📧 Email: [ysferencakir@gmail.com](mailto:ysferencakir@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ysferencakir](https://linkedin.com/in/ysferencakir)
+- 🔗 Linktree: [linktr.ee/ysferencakir](https://linktr.ee/ysferencakir)
 
 ---
 
-⭐️ From [Yusuf Eren Çakır](https://github.com/ysferencakir)
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ysferencakir&theme=monokai" />
+</p>
 
+---
 
+<p align="center">
+  ⚡ Keep learning, keep building!
+</p>
